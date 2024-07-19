@@ -1,3 +1,4 @@
+NOTE: kaboom rebranded to kaplay
 
 Resources
 -

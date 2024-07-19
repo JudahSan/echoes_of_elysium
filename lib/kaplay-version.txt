@@ -1,0 +1,2 @@
+Kaboom version used: 3000.0.0-alpha
+Link: https://unpkg.com/kaplay@3001.0.0-alpha.18/dist/kaplay.mjs

@@ -1,9 +1,9 @@
-import kaboom from "../lib/kaboom.mjs";
+import kaplay from "../lib/kaplay.mjs";
 
 export const scale = 2;
 
-// Store kaboom context in a constant
-export const k = kaboom({
+// Store kaplay context in a constant
+export const k = kaplay({
   width: 640 * scale,
   height: 320 * scale,
   scale,
